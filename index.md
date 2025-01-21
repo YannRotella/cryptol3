@@ -25,6 +25,7 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - [Présentation](docs/cours1.pdf)
 
 #### 30 janvier (11h20 -> 12h50): Enigma (suite) - Chiffrements à flots
+  - [Enigma](docs/ENIGMA.pdf)
 
 #### 6 février (11h20 -> 12h50):
 
