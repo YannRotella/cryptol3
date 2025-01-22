@@ -23,6 +23,8 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 #### 23 janvier (11h20 -> 15h20): Cryptographie Historique
   - [Présentation](docs/cours1.pdf)
+  - Challenge ouvert: un code secret se cache dans ce message. Pouvez-vous le retrouver ?
+  - GZOIAVXPJUKIXCOKWVWDJIMJZICYJTBTUKYBWRZCNVPZQZMDYRDDTECGJTYYJJOXWVDZXKHVGGOFONDA
 
 #### 30 janvier (11h20 -> 12h50): Enigma (suite) - Chiffrements à flots
   - [Enigma](docs/ENIGMA.pdf)
