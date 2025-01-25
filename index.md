@@ -23,8 +23,13 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 #### 23 janvier (11h20 -> 15h20): Cryptographie Historique
   - [Présentation](docs/cours1.pdf)
-  - Challenge ouvert: un code secret se cache dans ce message. Pouvez-vous le retrouver ?
+  - Challenge 1: un code secret se cache dans ce message. Pouvez-vous le retrouver ?
   - GZOIAVXPJUKIXCOKWVWDJIMJZICYJTBTUKYBWRZCNVPZQZMDYRDDTECGJTYYJJOXWVDZXKHVGGOFONDA
+  - Challenge résolu (Vigenere avec une clef de taille 5)
+  - Challenge 2: des techniques de l'antiquité ont été utilisées pour chiffrer un message. Nous avons récupéré les données suivantes:
+  - JHJJZINFFZXYJJZHQIDNZWVIZDJTQQNPHWRUWJHQJXTVHJKRNYJJXHXUWUSXJFJVXSYWXYNXYTIWJQYY
+  - Pouvez-vous retrouver la méthode de chiffrement ainsi que la clef utilisée ?
+  - Réponses à donner [ici](https://forms.gle/eXv1mGVHeD7x49BGA)
 
 #### 30 janvier (11h20 -> 12h50): Enigma (suite) - Chiffrements à flots
   - [Enigma](docs/ENIGMA.pdf)
