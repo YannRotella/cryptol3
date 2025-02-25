@@ -77,6 +77,8 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 
 ## Modalités d'évaluation :
+  - 40% CC (deux notes)
+  - 60% Examen
 
 ## Enoncés des TDs
   - [TD1 - Les chiffrements historiques](docs/td1.pdf)
@@ -93,3 +95,4 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 
 ## Corrections des contrôles
+  - Réalisée en TDs
