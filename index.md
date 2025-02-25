@@ -29,27 +29,51 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - Challenge 2: des techniques de l'antiquité ont été utilisées pour chiffrer un message. Nous avons récupéré les données suivantes:
   - JHJJZINFFZXYJJZHQIDNZWVIZDJTQQNPHWRUWJHQJXTVHJKRNYJJXHXUWUSXJFJVXSYWXYNXYTIWJQYY
   - Pouvez-vous retrouver la méthode de chiffrement ainsi que la clef utilisée ?
-  - Réponses à donner [ici](https://forms.gle/eXv1mGVHeD7x49BGA)
 
 #### 30 janvier (11h20 -> 12h50): Enigma (suite) - Chiffrements à flots
   - [Enigma](docs/ENIGMA.pdf)
 
 #### 6 février (11h20 -> 12h50):
+  - Cryptographie symétrique, définitions
+  - PRNGs, one-time-pad
+  - chiffrements à flot, LFSRs [Notes](docs/ChiffrementAFlot.pdf)
 
 #### 13 février (11h20 -> 12h50):
+  - Théorie de Shannon (Diffusion, confusion)
+  - Introduction aux chiffrements par bloc
+  - Stratégies de conception (notion de tours, SPN)
 
 #### 20 février (11h20 -> 12h50):
+  - Suite chiffrements par bloc
+  - Conception complète, cadencement de clefs
+  - Réseaux de Feistel
+  - DES
+  - [Notes](docs/Cours4-5.pdf)
 
 #### 6 mars (11h20 -> 12h50):
+  - fin cryptographie symétrique
+  - padding et Modes d'opération
+  - Définition Cryptographie asymétrique
+  - RSA - définition
 
 #### 13 mars (11h20 -> 12h50):
+  - RSA: théorie mathématique
+  - RSA en pratique
 
 #### 27 mars (11h20 -> 12h50):
+  - Générations de nombres premiers
+  - à quoi faut-il faire attention
+  - [Notes](docs/RSA_TestsDePrimalite.pdf)
+  - [IndicatriceEuler](docs/cours7_phidEuler.pdf)
+  - Signatures - définitions
 
 #### 10 avril (11h20 -> 12h50):
+  - [Signatures](docs/cours8.pdf)
+  - [Diffie-Hellman](docs/Diffie-Hellman.pdf)
 
 #### 17 avril (11h20 -> 12h50):
-
+  - Attaque de l'homme du milieu
+  - [Certificats](docs/cours10.pdf)
 
 
 ## Modalités d'évaluation :
