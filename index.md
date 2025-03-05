@@ -125,6 +125,8 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - [TD3 - Chiffrements à flot](docs/td3.pdf)
   - [TD4 - Chiffrements par bloc](docs/td4.pdf)
   - [TD5 - DES et Modes](docs/td5.pdf)
+  - [DES highlevel](docs/DES-highlevel.pdf)
+  - [DES specs](docs/DES2111311.pdf)
   - [TD6 - Arithmétique modulaire](docs/td6.pdf)
   - [TD7 - RSA](docs/td7.pdf)
   - [TD8 - Tests de primalité](docs/td8.pdf)
