@@ -83,7 +83,7 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 ## Nouveaux Challenges : 
 
-### Challenge 3 : LFSR
+### Challenge 3 (Résolu): LFSR
   - Un LFSR de longueur 64 a engendré la suite chiffrante suivante (le premier bit est le premier bit de sortie, le deuxième est le deuxième bit sortie (de gauche à droite et de haut en bas):
   - 11011110111001011010
   - 01011010010101001000
@@ -93,7 +93,6 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - 00000010011110111000
   - 11101101101100100100
   - Pouvez-vous retrouver les Coefficients de rétroaction du LFSR ? Pour vous aider on vous donne le bout de code implémentant un LFSR en C. Votre réponse doît être la valeur de poly dans le code correspondant [code](docs/mainLFSR.c) en héxadécimal !
-  - [Lien Formulaire Réponse](https://forms.gle/ECM1W2UmNmEuXLEN6)
 
 ### Challenge 4 : Generateur de Geffe (modifié)
   - On a crée un chiffrement à flot sensiblement correspondant au générateur de Geffe.
