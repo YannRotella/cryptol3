@@ -23,13 +23,6 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
 
 #### 23 janvier (11h20 -> 15h20): Cryptographie Historique
   - [Présentation](docs/cours1.pdf)
-  - Challenge 1: un code secret se cache dans ce message. Pouvez-vous le retrouver ?
-  - GZOIAVXPJUKIXCOKWVWDJIMJZICYJTBTUKYBWRZCNVPZQZMDYRDDTECGJTYYJJOXWVDZXKHVGGOFONDA
-  - Challenge résolu (Vigenere avec une clef de taille 5)
-  - Challenge 2: des techniques de l'antiquité ont été utilisées pour chiffrer un message. Nous avons récupéré les données suivantes:
-  - JHJJZINFFZXYJJZHQIDNZWVIZDJTQQNPHWRUWJHQJXTVHJKRNYJJXHXUWUSXJFJVXSYWXYNXYTIWJQYY
-  - Pouvez-vous retrouver la méthode de chiffrement ainsi que la clef utilisée ?
-  - Challenge résolu (substitution et transposition)
 
 #### 30 janvier (11h20 -> 12h50): Enigma (suite) - Chiffrements à flots
   - [Enigma](docs/ENIGMA.pdf)
@@ -81,31 +74,7 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - 40% CC (deux notes)
   - 60% Examen
 
-## Nouveaux Challenges : 
-
-### Challenge 3 (Résolu): LFSR
-  - Un LFSR de longueur 64 a engendré la suite chiffrante suivante (le premier bit est le premier bit de sortie, le deuxième est le deuxième bit sortie (de gauche à droite et de haut en bas):
-  - 11011110111001011010
-  - 01011010010101001000
-  - 01100101111000111110
-  - 01111101110001101010
-  - 10101000000001100001
-  - 00000010011110111000
-  - 11101101101100100100
-  - Pouvez-vous retrouver les Coefficients de rétroaction du LFSR ? Pour vous aider on vous donne le bout de code implémentant un LFSR en C. Votre réponse doît être la valeur de poly dans le code correspondant [code](docs/mainLFSR.c) en héxadécimal !
-
-### Challenge 4 : Generateur de Geffe (modifié)
-  - On a crée un chiffrement à flot sensiblement correspondant au générateur de Geffe.
-  - Pour vous aider, on vous donne le code (en C) implémentant l'algorithme [code](docs/main_geffe_mod.c)
-  - La suite chiffrante suivante a été observée. Pouvez-vous retrouver les états initiaux des générateurs ? Les valeurs à renvoyer doivent être données en héxadécimal !
-  - 10011100100000001011
-  - 01011011111100010001
-  - 01110110010111010111
-  - 11100001000111110110
-  - 10101000001011110100
-  - 11101000101001001001
-  - 00101000001101101110
-  - [Lien Formulaire Réponse](https://forms.gle/p4jCVH8weYp2gVpF8)
+## Challenges encore ouverts: 
 
 ### Challenge 5 : Meet-in-the Middle pour les chiffrements à flots
   - Afin de palier à l'attaque précédante, nous allons utiliser de 3 LFSR filtrés (une fonction est appliquée à tout l'état. La sortie de ces trois fonctions est alors combinée au moyen d'un XOR afin de générer la suite chiffrante. Le code implémentant l'algorithme est donné [ici](docs/main_mitm.c)
@@ -117,6 +86,11 @@ Ici, les documents du cours (énoncés des TDs, documents des CM, challenges et 
   - 01100101100000111001
   - 10011010100010011100
   - [Lien Formulaire Réponse](https://forms.gle/ck9ej5hesg1caiUW9)
+
+### Challenge 6 : Factorisation
+  - Pouvez-vous donner les entiers p et q pour RSA de l'entier suivant ?
+  - 1267650600228402790082356974917
+  - [Lien Formulaire Réponse](https://forms.gle/DUx2NyEHrBzUThwN8)
 
 ## Enoncés des TDs
   - [TD1 - Les chiffrements historiques](docs/td1.pdf)
