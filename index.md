@@ -19,12 +19,15 @@ Contrôle Continu 40% et Examen 60%
 
 #### CC 1:
   - Le mardi 10 mars 2026
+
 #### CC 2:
   - Le mardi 21 avril 2026
+
 #### CC de rattrapage
   - Le Jeudi 7 mai 2026
   - Remplace la ou les notes
   - Uniquement si ABJ
+
 #### Examen:
   - TBA
 
@@ -39,7 +42,6 @@ Contrôle Continu 40% et Examen 60%
   - [Définitions de Sécurité](docs/cours3.pdf)
 
 #### 19 février (11h20 -> 12h50): Stratégies de Conception des Chiffrements par Bloc, ou comment construire des PRPs 
-  - Retour 
   - [Stratégies de Conception](docs/cours4.pdf)
   - Pour aller plus loin: le cours de C. Boura sur les [chiffrements à flots](docs/ChiffrementAFlot.pdf)
 
