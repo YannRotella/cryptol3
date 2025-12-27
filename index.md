@@ -78,4 +78,27 @@ Contrôle Continu 40% et Examen 60%
 
 ## Les Sujets de Travaux Dirigés
 
-  - TBA
+  - [Séance 1 - TD - Chiffrements historiques](docs/01_TD_chiffrementshistoriques.pdf)
+  - [Séance 2 - TP - Cryptanalyse à chiffrés connus](docs/02_TP_Chiffrementshistoriques.pdf)
+  - [Séance 3 - TD - Entropie, Information et Chiffrements parfaits](docs/03_TD_EntropieetReductions.pdf)
+  - [Séance 4 - TD - Réductions et Définitions de sécurité](docs/04_TD_Reductions.pdf)
+  - [Séance 5 - TD - Chiffrements par bloc](docs/05_TD_ChiffrementsParBloc.pdf)
+  - [Séance 6 - TP - Cryptanalyse](docs/06_TP_Cryptanalyse.pdf)
+  - [Séance 7 - TD - Modes, Hashage et Authentification](docs/07_TD_ModesEtAuthentification.pdf)
+  - [Séance 8 - TD/TP - Arithmétique et Programmation](docs/08_TD_CryptographieAsymetrique.pdf)
+  - [Séance 9 - TD - RSA](docs/09_TD_RSA.pdf)
+  - [Séance 10 (et 11) - TP - Cryptanalyse des Chiffrements Asymétriques](docs/10_CryptographieAsymetriqueProg.pdf)
+  - [Séance 11 et 12 - TD/TP - Signatures et Certificats](docs/11_12_TP_last_applications.pdf)
+
+## Les liens pour les fichiers nécessaires pour certains TP
+
+  - [TD6 - exo 1](docs/td6_exo1.py)
+  - [TD6 - exo 2](docs/td6_exo2.py)
+  - [TD6 - exo 3](docs/td6_exo3.py)
+  - [TD12 - Certificat](docs/CACertif.pem)
+  - [TD 12 - confiance 1](docs/confiance1.txt)
+  - [TD 12 - confiance 2](docs/confiance2.txt)
+  - [TD 12 - Req Config File](docs/req.cnf)
+  - [TD 12 - signature 1](docs/sign1)
+  - [TD 12 - signature 2](docs/sign2)
+  - [TD 12 - Clé publique de votre enseignant](docs/publicKeyRotella.pem)
