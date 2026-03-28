@@ -29,7 +29,7 @@ Contrôle Continu 40% et Examen 60%
   - Uniquement si ABJ
 
 #### Examen:
-  - TBA
+  - Lundi 11 mai 2026
 
 ## Programme des Cours Magistraux
 
