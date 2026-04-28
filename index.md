@@ -95,13 +95,7 @@ Contrôle Continu 40% et Examen 60%
   - [TD6 - exo 1](docs/td6_exo1.py)
   - [TD6 - exo 2](docs/td6_exo2.py)
   - [TD6 - exo 3](docs/td6_exo3.py)
-  - [TD12 - Certificat](docs/CACertif.pem)
-  - [TD 12 - confiance 1](docs/confiance1.txt)
-  - [TD 12 - confiance 2](docs/confiance2.txt)
-  - [TD 12 - Req Config File](docs/req.cnf)
-  - [TD 12 - signature 1](docs/sign1)
-  - [TD 12 - signature 2](docs/sign2)
-  - [TD 12 - Clé publique de votre enseignant](docs/publicKeyRotella.pem)
+  - [TP12 - Archives pour le TP](docs/archive.zip)
 
 ## Sujets des années précédentes
 
